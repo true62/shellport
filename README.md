@@ -1,2 +1,2 @@
 # shellport
-Shellport is a thing where you can port Linux to windows, currently unfinished.
+Shellport is a thing where you can port Linux to windows.
